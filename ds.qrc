@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Dark_sign.ico</file>
+    <file>Dark_Souls_Logo.jpg</file>
+  </qresource>
+</RCC>
